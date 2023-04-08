@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Ashok IT 2023</p>
+		<p>&copy; Ashok IT 2025</p>
 	</footer>
 </div>
 
